@@ -1,3 +1,5 @@
 terraform/.terraform/
 terraform/.terraform.lock.hcl
+terraform-ami/.terraform/
+terraform-ami/.terraform.lock.hcl
 variables.tf
