@@ -1,1 +1,1 @@
-# wordpress-multi-tier
+# elastic-wordpress
